@@ -1,0 +1,9 @@
+{
+  "name": "fsd-workshop-assignment",
+  "version": "1.0.0",
+  "description": "FSD Workshop Assignment - File System",
+  "main": "question1.js",
+  "scripts": {
+    "start": "node question1.js"
+  }
+}
